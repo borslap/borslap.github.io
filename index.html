@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/svg+xml" href="./assets/img/rocket.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <title>Bor Slapnicar</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">Home</a></li>
+                <li><a href="./gallery.html">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h1>Bor Slapnicar</h1>
+            <h3>Aerospace Engineer</h3>
+            <div class="about-content">
+                <div class="text">
+                    <div class="about-details">
+                        <p>Hi, I'm Bor, a dedicated mechanical engineering student 
+							at <a href="https://mechmining.uq.edu.au/">The University of Queensland</a>
+							, specializing in guidance, navigation, and control (GNC) systems engineering. 
+							I'm on track to graduate in late November this year.</p>
+                    </div>
+                    <div class="about-details">
+                        <p>Currently, I'm actively involved as a research assistant on a 
+							project in supersonic experimental vehicle development at the 
+							<a href="https://mechmining.uq.edu.au/research/hypersonics" 
+								target="_blank">UQ Centre for hypersonics</a>.</p>
+                        <p>Scroll down for a glimpse of my academic, professional, and personal 
+                            projects, or explore my <a href="./gallery.html">portfolio</a> 
+                            to see more of my work.
+                        </p>                    
+                    </div>
+                </div>
+                <div class="img">
+                    <img src="assets/img/portrait.jpg" alt="Bio Photo" style="width:80%;height:auto;">
+                </div>
+        </div>
+    </section>
+
+    <!-- News -->
+    <section id="Project Links">
+        <div class="container">
+        <h1>Project Links</h1>
+        <div class="collapsible">
+            <div class="collapsible-heading">2023</div>
+            <div class="collapsible-content">
+                <h3>Career</h3>
+                <p>
+				University of Queensland. Click <a href="./gallery.html">here</a> to find out more.
+				</p>
+                <h3>Thesis Project</h3>
+                <p>
+				I just finished my thesis on supersonic UAV flight 
+				computer design with Lockheed Martin Australia at The
+				University of Queensland. Click <a href="./gallery.html">here</a> to find out more.
+				</p>
+            </div>
+        </div>
+
+        <div class="collapsible">
+            <div class="collapsible-heading">2022</div>
+            <div class="collapsible-content">
+                <p>Here are my projects from 2022.</p>
+            </div>
+        </div>
+
+        <div class="collapsible">
+            <div class="collapsible-heading">2021</div>
+            <div class="collapsible-content">
+                <p>Here are my projects from 2021.</p>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <!-- Contact Links -->
+    <section id="contact">
+        <div class="container">
+            <h1>Contact Me</h1>
+            <div class="contact-info">
+                <div class="contact-details">
+                    <p>You can reach me at <a href="mailto:bor.slapnicar@gmail.com" 
+                        target="_blank">bor.slapnicar@gmail.com</a>.</p>
+                    <p>I am also on <a href="https://linkedin.com/in/bor-slapnicar/" 
+                        target="_blank">LinkedIn</a>.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <span>Created by Bor Slapnicar. Last modified: <span id="year"></span>.</span>
+        </div>
+    </footer>
+
+    <!-- Script -->
+    <script>
+        // Get all elements with the class "collapsible-heading"
+        const collapsibleHeadings = document.querySelectorAll('.collapsible-heading');
+          
+          // Add a click event listener to each heading
+          collapsibleHeadings.forEach((heading) => {
+            heading.addEventListener('click', function () {
+              const content = this.nextElementSibling;
+              if (content.classList.contains('show')) {
+                content.classList.remove('show');
+              } else {
+                content.classList.add('show');
+              }
+            });
+          });
+
+        const yearElement = document.getElementById('year');
+        const year = new Date().getFullYear();
+        yearElement.textContent = year;
+    </script>
+</body>
+</html>
