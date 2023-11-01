@@ -13,6 +13,7 @@ footer {
     padding: 0px 50px;
     font-size: 10px;
     font-style: italic;
+    padding-bottom: 5px;
 }
 
 /* Define global styles */
@@ -139,14 +140,34 @@ p {
     transition: max-height 0.3s, opacity 0.3s;
 }
 
-.collapsible-content .a {
+.collapsible-content a {
     color: #333;
     text-decoration: none;
     font-weight: 600;
 }
 
-.collapsible-content .a:hover {
+.collapsible-content a:hover {
     text-decoration: underline;
+}
+
+.collapsible-content .content-item {
+	display: inline-flex;
+	align-items: center;
+	margin: 0;
+	padding: 10px;
+}
+
+.collapsible-content .content-item-left {
+	margin-right: 10px;
+}
+
+.collapsible-content .content-item img {
+	height: 3rem;
+	width: auto;
+}
+
+.collapsible-content .content-item-right {
+	margin: 0;
 }
 
 .collapsible-heading {
@@ -247,6 +268,7 @@ p {
     align-items: center;
     width: 100%;
     margin: 0 auto;
+    margin-top: 1rem;
     text-align: center;
     padding-bottom: 2rem;
 }
@@ -261,9 +283,8 @@ p {
 .project-content .img {
     flex: 1;
     padding-top: 20px;
-    width: 100%;
     max-width: 100%;
-    margin: 0 auto;
+    margin: auto auto;
     height: auto;
 }
 
