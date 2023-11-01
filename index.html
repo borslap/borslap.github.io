@@ -210,6 +210,10 @@
                 content.classList.add('show');
               }
             });
+
+			  // Expand collapsible sections on load
+			  const content = heading.nextElementSibling;
+			  content.classList.add('show');
           });
 
         const yearElement = document.getElementById('year');
