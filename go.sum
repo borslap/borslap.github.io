@@ -1,2 +1,14 @@
+github.com/hugomods/font-awesome v6.5.1+incompatible h1:Z/ZK4yQm0DptAxpXl2zfbo6taBejL0GCFwI4o4Ya7v0=
+github.com/hugomods/font-awesome v6.5.1+incompatible/go.mod h1:C2wW6xDvHkcMlJMVTPQ+Npt+rO0OGv13xT1iyll2z2Q=
+github.com/hugomods/icons v0.6.3 h1:2Ra6NU2GOeVvz8vowLq/OZCTzxqhq84MA0TICRBVxeY=
+github.com/hugomods/icons v0.6.3/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P31gPNGg=
+github.com/hugomods/icons/vendors/bootstrap v0.5.6 h1:4Vj7u52gFUnO+Jj/CqmGfsLroify2aysRpIvgHRNjjI=
+github.com/hugomods/icons/vendors/bootstrap v0.5.6/go.mod h1:Sw1RhQvFcsQlJ5a4SKpp7A0XHDYQ0DK0pQwnnx+l+Ao=
+github.com/hugomods/icons/vendors/font-awesome v0.6.5 h1:sf9hPR2zR1psHVM7ASSt9o47EwD9NhGcK9echjxaNmU=
+github.com/hugomods/icons/vendors/font-awesome v0.6.5/go.mod h1:olo6073bAL17apxc7lTLfQKpT9sIam8Zx+d9lrCwV/o=
 github.com/imfing/hextra v0.7.2 h1:BwReaobJ3DTEsobfVYLr2sa0fOTRFUrSxArbmL91yKo=
 github.com/imfing/hextra v0.7.2/go.mod h1:cEfel3lU/bSx7lTE/+uuR4GJaphyOyiwNR3PTqFTXpI=
+github.com/imfing/hextra v0.7.3 h1:dVGA1NTcWe+FaUMdrawEypPfrrmulq5NoK0we3nC330=
+github.com/imfing/hextra v0.7.3/go.mod h1:cEfel3lU/bSx7lTE/+uuR4GJaphyOyiwNR3PTqFTXpI=
+github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
+github.com/twbs/icons v1.11.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
