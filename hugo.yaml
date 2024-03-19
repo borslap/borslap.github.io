@@ -71,7 +71,7 @@ params:
 
   edirURL:
     enable: true
-    base: "https://borslap.github.io"
+    base: "https://borslap.github.io/content"
 
 
 enableInlineShortcodes: true
