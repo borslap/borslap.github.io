@@ -10,7 +10,7 @@ I'm not the most regular blogger, but if you get lucky, you may be able to dig u
 
 ## Recent Posts
 
-- [Ardupilot drone cotnrol integration](posts/drone)
+- [Ardupilot drone control integration](posts/drone)
 - [Tasmania travel blog](posts/tasmania)
 - [My NeoVim journey (so far)](posts/vimjourney)
 

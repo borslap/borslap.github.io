@@ -58,10 +58,10 @@ Eventually we got to the summit and the views were pretty awesome.
   <figcaption>Mt Ossa Summit</figcaption>
 </figure>
 
-Then we headed back and on the way back to Launceston, we saw an ikidna crossing the road!
+Then we headed back and on the way back to Launceston, we saw an echidna crossing the road!
 <figure>
   <img src="/images/tas-ikidna.jpg" width=80%>
-  <figcaption>Ikidna</figcaption>
+  <figcaption>Echidna</figcaption>
 </figure>
 
 
