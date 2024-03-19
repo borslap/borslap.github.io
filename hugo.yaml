@@ -69,7 +69,7 @@ params:
     displayCopyright: false
     displayPoweredBy: false 
 
-  edirURL:
+  editURL:
     enable: true
     base: "https://borslap.github.io/content"
 
