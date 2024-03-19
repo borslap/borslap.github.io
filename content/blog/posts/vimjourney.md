@@ -21,14 +21,14 @@ Visual Improved is a console text editor known for its efficiency and powerful k
 
 ## Introduction
 
-I was introduced to Vim out of necessity rather than curiosity. In the software engineering world it is considered an essential skill as some of the key courses demand the use of a a remote Linux cluster.
+I was introduced to Vim out of necessity rather than curiosity. In the software engineering world it is considered an essential skill as some of the key courses demand the use of a remote Linux cluster.
 
 [CSSE2310](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE2310) is a computer science course at UQ that really introduces one to software engineering. It covers 3 areas: 
   - **Writing C code** from scratch,
   - The use of **Linux Shell, Vim, and Tmux**
   - **General computer systems principles** such as processes, threads, memory allocation, filesystem essentials, memory virtualisation and computer networking. 
 
-If you are familiar with any of the above-mentioned concepts, you can probably already tell that this course demands countless hours reading through the `man` pages and hair pulling at compilation errors and tracking down memory leaks, especially for someone fairly green in the field. Needless to say, when I, a mechanical engineer by education and rookie Python scripter by trade, signed up for it, I didn't have a clue about what any of those were.
+This course requires extensive time spent reading through man pages and troubleshooting compilation errors and memory leaks, particularly for someone new to the field like myself, with a background in mechanical engineering and beginner-level Python scripting. Needless to say, when I signed up for it, I didn't have a clue about what any of those were.
 
 By then I had only really used Linux briefly in a [Computational Fluid Dynamics](https://my.uq.edu.au/programs-courses/course.html?course_code=MECH6480) (CFD) course, where it was possible to get through the course by simply following along at tutorials and using online resources, without actually learning much about Linux.
 
@@ -44,13 +44,13 @@ Discovering the transformative potential of Vim's motion commands was a pivotal 
 
 ## Holy NeoVim 
 
-Doing lots of mechanical engineering work at the time which requires the use of Windows-based CAD modelling packages (Solidworks nad NX), I decided to install the NeoVim on my Windows laptop.
+Doing lots of mechanical engineering work at the time which requires the use of Windows-based CAD modelling packages (Solidworks and NX), I decided to install the NeoVim on my Windows laptop.
 
 Just when I thought I was getting the hang of Vim, I stumbled upon NeoVim -- a modernized, enhanced version of the classic editor. Initially I was reluctant, because I did not understand the requirements of a Windows based customisation, but the allure of NeoVim's modern features and improved performance proved too tempting to resist. A few tutorials and blog posts later I successfully called `:PlugInstall` and with that I began my exploration of the Nvim plugin universe.
 
 ## Vim \& LaTeX
 
-After a few months into my Vim Journey I have decided to update my LaTeX resume and opened [Overleaf](https://overleaf.com). Immediately I felt like something was wrong. My key-bindings didn't work. I began investingating the my vim-plug options and syntax highlighting plugins such as [VimTeX](https://github.com/lervag/vimtex) and seamless integration with LaTeX compilers like [MikTex](https://miktex.org/) or [TexLive](https://www.tug.org/texlive/), Vim transformed the way I approached writing technical documents. 
+After a few months into my Vim Journey I have decided to update my LaTeX resume and opened [Overleaf](https://overleaf.com). Immediately I felt like something was wrong. My key-bindings didn't work. I began investigating the my vim-plug options and syntax highlighting plugins such as [VimTeX](https://github.com/lervag/vimtex) and seamless integration with LaTeX compilers like [MikTex](https://miktex.org/) or [TexLive](https://www.tug.org/texlive/), Vim transformed the way I approached writing technical documents. 
 
 Whether it's navigating to a specific line, jumping to the next occurrence of a word, or selecting a block of text with surgical precision, Vim's motions empower you to navigate any document with unparalleled speed and accuracy. 
 

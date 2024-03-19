@@ -6,7 +6,7 @@ sidebar:
   open: true
 ---
 
-I'm a the most regular blogger, but you can find some old engineering posts here. Feel free to explore and engage with the content.
+I'm not the most regular blogger, but you can find some of my old engineering posts here. Feel free to explore and engage with the content.
 
 ## Recent Posts
 

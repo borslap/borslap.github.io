@@ -13,7 +13,7 @@ sidebar:
 
 ## TLDR
 
-Cheesy blog about my recent roadtrip around Tasmania with K. A bit of a spontaneous and under-planned trip -- just how I like it. 
+Cheesy blog about my recent road trip around Tasmania with K. A bit of a spontaneous and under-planned trip -- just how I like it. 
 
 ## Hobart \& Around
 
