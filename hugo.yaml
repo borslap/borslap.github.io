@@ -71,7 +71,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://borslap.github.io/content"
+    base: "https://borslap.github.io/"
 
 
 enableInlineShortcodes: true
