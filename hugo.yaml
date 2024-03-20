@@ -70,7 +70,7 @@ params:
     displayPoweredBy: false 
 
   editURL:
-    enable: true
+    enable: false
     base: "https://borslap.github.io/"
 
 
