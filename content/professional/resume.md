@@ -19,7 +19,7 @@ I recently graduated from a Master's degree in Mechanical Engineering, specializ
 
 ## Education
 
-### University of Queensland -- Brisbane
+### University of Queensland
 - **Bachelor (Honours) and Master of Engineering in Mechanical Engineering**
   Feb 2019 - Nov 2023
 - **Cumulative GPA:** 5.63/7.
@@ -29,26 +29,26 @@ I recently graduated from a Master's degree in Mechanical Engineering, specializ
 
 ## Experience
 
-### UQ Centre for Hypersonics, Brisbane
+### UQ Centre for Hypersonics
 - **Research Assistant**
   Jul 2023 - present
   - Characterised flight control system using functional block modelling in Matlab.
   - Assembled and tested remote telemetry station, including power, and data rates.
   - Manufactured composite rocket skin parts filament winding and wet layup, and created a test rig for system validation in Siemens NX.
 
-### Lockheed Martin, Brisbane
+### Lockheed Martin Australia
 - **Aerospace Engineering Intern** 
   Jan 2023 - Jul 2023
   - Proposed and justified onboard computer system of a supersonic UAV, responsible for GNC function, ground control communications and onboard camera management.
   - Developed a high-fidelity flight simulation in Python to analyse the flight trajectory and defined the GNC system requirements.
 
-### Deloitte, Perth
+### Deloitte
 - **Consulting Intern**
   Nov 2022 - Dec 2022
   - Collaborated on a mining industry project with the asset management team.
   - Delivered a presentation of the project findings to an external audience.
 
-### NOJA Power, Brisbane
+### NOJA Power
 - **R&D Intern**
   Nov 2021 - Jan 2022
   - Validated design of a switchgear product using ANSYS Maxwell FEA and Creo Parametric CAD.
