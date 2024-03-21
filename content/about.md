@@ -4,7 +4,7 @@ type: about
 toc: false
 ---
 
-<img src="/images/about-photo.jpg" width=50%>
+<img src="/images/about-photo.jpg" width=80%>
 
 Twenty-four-year-old Master of mechanical engineering graduate from The University of Queensland. My academic path has not been the most direct, but ultimately my passion and experience have converged on the topic of guidance, navigation and control (GNC).
 
