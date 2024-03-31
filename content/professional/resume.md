@@ -36,7 +36,7 @@ I recently graduated from a Master's degree in Mechanical Engineering, specializ
   - Assembled and tested remote telemetry station, including power, and data rates.
   - Manufactured composite rocket skin parts filament winding and wet layup, and created a test rig for system validation in Siemens NX.
 
-### Lockheed Martin Australia
+### Lockheed Martin
 - **Aerospace Engineering Intern** 
   Jan 2023 - Jul 2023
   - Proposed and justified onboard computer system of a supersonic UAV, responsible for GNC function, ground control communications and onboard camera management.
