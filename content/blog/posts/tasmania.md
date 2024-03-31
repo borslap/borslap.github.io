@@ -60,7 +60,7 @@ Eventually we got to the summit and the views were pretty awesome.
 
 Then we headed back and on the way back to Launceston, we saw an echidna crossing the road!
 <figure>
-  <img src="/images/tas-ikidna.jpg" width=80%>
+  <img src="/images/tas-echidna.jpg" width=80%>
   <figcaption>Echidna</figcaption>
 </figure>
 
