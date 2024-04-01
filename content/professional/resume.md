@@ -51,7 +51,13 @@ I recently graduated from a Master's degree in Mechanical Engineering, specializ
 ### NOJA Power
 - **R&D Intern**
   Nov 2021 - Jan 2022
-  - Validated design of a switchgear product using ANSYS Maxwell FEA and Creo Parametric CAD.
+  - Validated design of a switchgear product using ANSYS FEA.
+  - Developed parts of a complex product assembly in Creo Parametric CAD
+
+### Reid Cycles
+- **Bike Mechanic and Salesperson**
+  Dec 2019 - Nov 2023
+  -Strengthened store's reputation through building trust and developing customer relationships.
 
 ## Projects
 
