@@ -74,6 +74,10 @@ I recently graduated from a Master's degree in Mechanical Engineering, specializ
 - Research Professor, University of Queensland
 - Email: [allan.paull@uq.edu.au](mailto:allan.paull@uq.edu.au)
 
+**Isabella Leunig** - Project Coach
+- Management Consultant, Deloitte Australia
+- Email: [ileunig@deloitte.com.au](mailto:ileunig@deloitte.com.au)
+
 **Zecchaeus Noller** - Course Teammate
 - Aerospace Engineer, Airbus GmbH
 - Email: [zecchaeusnoller@gmail.com](mailto:zecchaeusnoller@gmail.com)
