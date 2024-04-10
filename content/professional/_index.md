@@ -1,7 +1,7 @@
 ---
 title: Engineering Portfolio and Resume
 type: professional
-next: professional/projects/
+next: professional/projects/pendulum
 sidebar:
 ---
 

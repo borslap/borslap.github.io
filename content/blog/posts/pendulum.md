@@ -96,7 +96,7 @@ Here are two videos demonstrating the control system constructed by my team.
   <iframe 
     width="400" 
     height="600"
-    src="https://www.youtube.com/embed/yzlTJx1Igt0?rel=0" 
+    src="https://www.youtube.com/embed/XzrCPMGIgY4" 
     title="Pendulum Control - Swing Up and Catch" 
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
