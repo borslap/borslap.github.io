@@ -29,8 +29,8 @@ This is just a highlight page with a video, but you can read more about the proj
   <iframe 
     width="400" 
     height="600"
-    src="https://www.youtube.com/embed/yzlTJx1Igt0?rel=0" 
-    title="Pendulum Control - Swing Up and Catch" 
+    src="https://www.youtube.com/embed/XzrCPMGIgY4"
+    title="Pendulum Control - Robustness Demo" 
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
