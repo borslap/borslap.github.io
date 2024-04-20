@@ -57,7 +57,7 @@ I recently graduated from a Master's degree in Mechanical Engineering, specializ
 ### Reid Cycles
 **Bike Mechanic and Salesperson**
   Dec 2019 - Nov 2023
-  -Strengthened store's reputation through building trust and developing customer relationships.
+  - Strengthened store's reputation through building trust and developing customer relationships.
 
 ## Projects
 
