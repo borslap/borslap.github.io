@@ -7,4 +7,4 @@ sidebar:
   open: true
 ---
 
-My old university engineering projects, extracurricular engineering and potentially some non-enigneering projects.
+My university engineering projects, extracurricular engineering and potentially some non-enigneering projects.
