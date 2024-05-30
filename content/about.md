@@ -12,5 +12,5 @@ I love aerospace engineering, computer systems, and have a keen interest in the 
 
 Although my interests in aerospace engineering are diverse, ranging from fluid dynamics and flight mechanics simulation, it was during my thesis and postgraduate research that I found myself captivated by onboard software systems.
 
-Outside of work, I actively seek out new experiences that broaden my horizons. This thirst for exploration aligns with my approach to engineering challenges.
+Outside of work, I actively seek out new experiences that broaden my horizons. This thirst for exploration is common to my apporach to engineering challenges.
 
